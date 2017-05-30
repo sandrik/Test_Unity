@@ -1,0 +1,25 @@
+5.6.0f3:3.1.0.0
+Android
+J:/Ametov art/Unity/Editor/Data/Managed/UnityEngine.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/nunit.framework.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+J:/Ametov art/Unity/Editor/Data/Managed/UnityEditor.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll
+J:/Ametov art/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
+J:/Ametov art/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll
+J:/Ametov art/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+J:/Ametov art/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+J:/Ametov art/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
